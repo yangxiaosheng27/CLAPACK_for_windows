@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "clapack.h": "c",
+        "blaswrap.h": "c",
+        "f2c.h": "c"
+    }
+}
